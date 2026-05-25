@@ -40,7 +40,7 @@
 
 📫 Reach me at: **[luisromeroamasifuen@gmail.com](mailto:luisromeroamasifuen@gmail.com)**
 
-⚡ Fun fact: **I think I’m funny 😆**
+⚡ Fun fact: I’m a very curious person and I love exploring new technologies 😆
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
