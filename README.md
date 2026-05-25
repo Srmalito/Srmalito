@@ -32,9 +32,7 @@
 
 <br><br>
 
-🔭 I’m currently working on **Magento 2**
-
-💬 Ask me about **PHP, Magento, LAMP, Responsive Web Design**
+💬 Ask me about ** Responsive Web Design**
 
 🎨 Passionate about creating modern, responsive, and user-friendly web designs with clean UI/UX. I enjoy working with frontend styling technologies and building websites that look great on every device.
 
