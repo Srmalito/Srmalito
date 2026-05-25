@@ -34,14 +34,15 @@
 
 🔭 I’m currently working on **Magento 2**
 
-🌱 I’m currently learning **Magento 2 cloud**
+💬 Ask me about **PHP, Magento, LAMP, Responsive Web Design**
 
-💬 Ask me about **PHP, Magento, LAMP**
+🎨 Passionate about creating modern, responsive, and user-friendly web designs with clean UI/UX. I enjoy working with frontend styling technologies and building websites that look great on every device.
 
-📫 How to reach me **supravat.com@gmail.com**
+🚀 Always exploring new technologies and improving my development skills to create scalable and high-performance web applications.
 
-⚡ Fun fact **I think I'm funny**
+📫 Reach me at: **[luisromeroamasifuen@gmail.com](mailto:luisromeroamasifuen@gmail.com)**
 
+⚡ Fun fact: **I think I’m funny 😆**
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
