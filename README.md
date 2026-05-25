@@ -36,13 +36,9 @@
 
 🌱 I’m currently learning **Magento 2 cloud**
 
-👨‍💻 All of my projects are available at [Supravat's works](https://supravatm.github.io/projects)
-
 💬 Ask me about **PHP, Magento, LAMP**
 
 📫 How to reach me **supravat.com@gmail.com**
-
-📄 Know about my experiences [my experiences](http://supravatm.github.io)
 
 ⚡ Fun fact **I think I'm funny**
 
